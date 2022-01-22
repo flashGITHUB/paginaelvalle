@@ -21,7 +21,8 @@ body {
 	
 }
 
-.logo:hover{
+@media (min-width: 1000px){
+.logo:hover, .logo:active{
 	width:30%;
 	padding: 0px;
 	margin: 0px;
@@ -32,7 +33,7 @@ body {
 	border-style: solid
 	
 }
-
+}
 
 
 .fun {
@@ -81,5 +82,17 @@ body {
 	padding: 10px;
 	border-radius: 200px;
 }	
+}
+
+.trabajos {
+	position: relative;
+	left: 20%;
+	width: 50%;
+	background-color:rgba(255,255,255,0.5);
+	border-width: 20px;
+	border-style: solid;
+	border-color: white;
+	padding: 0px;
+	border-radius: 200px;
 }
 
