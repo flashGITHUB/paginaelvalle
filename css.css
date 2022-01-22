@@ -22,7 +22,7 @@ body {
 }
 
 @media (min-width: 1000px){
-.logo:hover{
+.logo:hover, .logo:active{
 	width:30%;
 	padding: 0px;
 	margin: 0px;
