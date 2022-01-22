@@ -22,7 +22,7 @@ body {
 }
 
 
-.logo:hover, .logo:active{
+.logo:hover{
 	width:30%;
 	padding: 0px;
 	margin: 0px;
