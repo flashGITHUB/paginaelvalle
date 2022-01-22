@@ -1,0 +1,32 @@
+body {
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-position: center;
+	backdrop-filter: blur(15px);
+	background-image: url(https://mecaluxar.cdnwm.com/documents/20197/5908042/M21P1+La+impresora+3D+es+una+tecnolog%C3%ADa+disruptiva+con+potencial+para+transformar+la+cadena+log%C3%ADstica/6492314f-0be4-b4ee-b46f-93662a4ffab7?t=1623411784000&e=jpg);
+}
+
+.letra {
+	color: white;
+	font-size: 40px:
+}
+
+
+.logo{
+	width: 30%;
+	background-size: cover;
+}
+
+.fun {
+	position: relative;
+	left: 0.5%;
+	width: 95%;
+	background-color:rgba(255,255,255,0.5);
+	font-size: 200%;
+	font-family: "Lucida Console", Courier, monospace;
+	border-width: 20px;
+	border-style: dotted solid;
+	border-color: white;
+}	
+
+
