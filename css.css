@@ -21,7 +21,7 @@ body {
 	
 }
 
-@media (min-width: 1000px){
+
 .logo:hover, .logo:active{
 	width:30%;
 	padding: 0px;
@@ -33,7 +33,7 @@ body {
 	border-style: solid
 	
 }
-}
+
 
 
 .fun {
