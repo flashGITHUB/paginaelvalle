@@ -41,7 +41,7 @@ body {
 	width: 95%;
 	background-color:rgba(255,255,255,0.5);
 	font-size: 170%;
-	font-family: "Lucida Console", Courier, monospace;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 	border-width: 15px;
 	border-style: solid;
 	border-color: white;
@@ -57,8 +57,8 @@ body {
 	left: 0.5%;
 	width: 95%;
 	background-color:rgba(255,255,255,0.5);
-	font-size: 150%;
-	font-family: "Lucida Console", Courier, monospace;
+	font-size: 200%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 	border-width: 20px;
 	border-style: solid;
 	border-color: white;
@@ -73,8 +73,8 @@ body {
 	left: 0.5%;
 	width: 95%;
 	background-color:rgba(255,255,255,0.5);
-	font-size: 200%;
-	font-family: "Lucida Console", Courier, monospace;
+	font-size: 390%;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
 	border-width: 10px;
 	border-style: solid;
 	border-color: white;
@@ -94,4 +94,12 @@ body {
 	padding: 0px;
 	border-radius: 200px;
 }
+
+.title {
+	background-color:rgba(255,255,255,0.5);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 300%;
+	
+}
+
 
