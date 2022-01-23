@@ -26,9 +26,8 @@ body {
 	padding: 0px;
 	margin: 0px;
 	transition: 0.5s;
-	border-color: white;
 	border-width: 10px;
-	border-radius: 200px;
+	border-radius: 5000000px;
 	border-style: solid
 	
 }
